@@ -9,3 +9,13 @@
 <p><strong>Hours since last journal: 1<br>
   Hours in total: 1
 </strong></p>
+<br><br>
+<h2>Finished placing components and started routing</h2><br><br>
+<p>After using some gemini for measurements I finished placing all the components on my PCB. I then started routing... really badly. I didn't realise it at the time but my plan of having diodes underneath the keys and extra space at the bottom of the board is completely different to what I normally do with that being diodes and extra space at the top. I will most likely delete all my routing so far and attempt to keep with the plan but it's gonna take a bit longer than normal.</p>
+
+<img width="1441" height="604" alt="mochaboardPCB2" src="https://github.com/user-attachments/assets/64575d02-dd52-4fdf-afc2-3065274f85e0" />
+
+<br>
+<p><strong>Hours since last journal: 1<br>
+Hours in total: 2
+</strong></p>
