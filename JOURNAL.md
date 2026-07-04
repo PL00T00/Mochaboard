@@ -19,3 +19,13 @@
 <p><strong>Hours since last journal: 1<br>
 Hours in total: 2
 </strong></p>
+<br><br>
+<h2>Finished PCB!</h2><br><br>
+<p>PCB is done! I think I might be one of very few people who actually enjoy routing PCB's, it's just so meditative! PCB is quite simple, I did end up redoing all the routing though. I always try to not use vias but I did have to use like three for the board due to the key positions relative to their rows and columns. There's always a certain amount of design you need to put into routing. It's hard to see on the real PCB but it is slightly visible. One day I will make a PCB that uses traces as decoration, one day. Onto the case next... I hate CAD. Maybe this will change my mind though, who knows?</p>
+
+<img width="906" height="410" alt="MochaboardPCBFINAL" src="https://github.com/user-attachments/assets/48be5924-c3ab-46a2-b2c1-3b61e0b03fd0" />
+
+<br>
+<p><strong>Hours since last journal: 1<br>
+Hours in total: 3
+</strong></p>
