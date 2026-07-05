@@ -12,3 +12,7 @@ Now to go drink a mocha
 
 
 <img width="1246" height="800" alt="MochaboardCase" src="https://github.com/user-attachments/assets/49c79f50-5528-4e3a-b575-328e01d0650d" />
+
+
+
+Firmware is mainly AI generated
