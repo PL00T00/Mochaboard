@@ -37,6 +37,7 @@ Hours in total: 3
 <img width="1246" height="800" alt="MochaboardCase" src="https://github.com/user-attachments/assets/ebd45e3e-e070-4b29-859f-88a72271a4df" />
 
 <br>
-<p><strong>Hours since last journal: 3<br>
-Hours in total: 6
-</strong></p>
+<p><strong>Hours since last journal: 3.5<br>
+Hours in total: 6.5
+</strong><br><br>
+(I know this time is really suspicious, I'm just really bad at CAD I swear, watch the vieos reviewers)</p>
