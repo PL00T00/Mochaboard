@@ -9,3 +9,6 @@ Project is extremely simple but sometimes it's the simplest things in life that 
 "The design of the keyboard was perfected like 20 years ago" - Some random person who goes to the same hackerspace as me, 2026
 
 Now to go drink a mocha
+
+
+<img width="1246" height="800" alt="MochaboardCase" src="https://github.com/user-attachments/assets/49c79f50-5528-4e3a-b575-328e01d0650d" />
