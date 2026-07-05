@@ -29,3 +29,14 @@ Hours in total: 2
 <p><strong>Hours since last journal: 1<br>
 Hours in total: 3
 </strong></p>
+<br><br>
+
+<h2>Made case and finished!</h2><br><br>
+<p>After way too long trying to figure out different CAD platforms, I decided to give in and deal with onshape's slowness. The process was painful. I followed the case guide on keeb.hackclub.com due to my hatred of CAD. I HATE CAD! It's finally done though! I can't belive it. Now to hope it gets reviewed in less than 4 days so I can still get to crux, I'm litterally shaking from fear because of that. Not the non-refundable train tickets!</p>
+
+<img width="1246" height="800" alt="MochaboardCase" src="https://github.com/user-attachments/assets/ebd45e3e-e070-4b29-859f-88a72271a4df" />
+
+<br>
+<p><strong>Hours since last journal: 3<br>
+Hours in total: 6
+</strong></p>
