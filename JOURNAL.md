@@ -40,4 +40,12 @@ Hours in total: 3
 <p><strong>Hours since last journal: 3.5<br>
 Hours in total: 6.5
 </strong><br><br>
-(I know this time is really suspicious, I'm just really bad at CAD I swear, watch the vieos reviewers)</p>
+
+<h2>Polished!</h2><br><br>
+<p>After talking to Taran they offered to check out the project and tell me what I need to change. I took that offer almost instantly. They came back to me with some basic stuff for the README and case. I am eternally grateful for Taran and now have a lot more confidence that this project wont get rejected.</p>
+
+<img width="1186" height="764" alt="MochaboardCase3" src="https://github.com/user-attachments/assets/de0ff018-245e-42bf-b5ab-73b8fb18797f" />
+
+<br>
+<p><strong>Hours since last journal: 0.75<br>
+Hours in total: 7.25</strong></p>
