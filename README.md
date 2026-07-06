@@ -11,7 +11,8 @@ Project is extremely simple but sometimes it's the simplest things in life that 
 Now to go drink a mocha
 
 
-<img width="1246" height="800" alt="MochaboardCase" src="https://github.com/user-attachments/assets/49c79f50-5528-4e3a-b575-328e01d0650d" />
+<img width="1307" height="795" alt="MochaboardCase2" src="https://github.com/user-attachments/assets/d64006b0-68f4-4c33-8a6a-1e745cfbe6c2" />
+
  
 Firmware is mainly AI generated
 
