@@ -30,6 +30,8 @@ Now to go drink a mocha
 <img width="1071" height="459" alt="MochaboardCaseLonely" src="https://github.com/user-attachments/assets/aec742af-494d-46d0-b42f-2086e599254d" />
 <br><br>
 
+<h2>firmware...</h2><br><br>
+<p>Firmware is probably my second-to-least favourite thing in the world, because of how complicated it is. Because of my smol brain I did enlist the help of some AI to assist in making the firmware. I attempted to make the QMK firmware as simple as possible and include all comments from the AI so if I do realise I need to change something I could atleast be looking in the right spot. It's all a learning experience I guess, maybe one day I'll enjoy doing this, just definitely not today</p><br><br>
 <h2>BOM</h2>
 
 | Reference | Qty | Value | DNP | Exclude from BOM | Exclude from Board | Footprint | Datasheet |
