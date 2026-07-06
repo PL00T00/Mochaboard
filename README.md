@@ -12,8 +12,23 @@ Now to go drink a mocha
 
 <img width="1186" height="764" alt="MochaboardCase3" src="https://github.com/user-attachments/assets/53ab4df0-4f13-49af-aff6-e1523a6b80b0" />
 
- 
-Firmware is mainly AI generated
+<h2>Schematic!</h2><br><br>
+<p>The schematic is quite simple with just a key matrix and the Pi Pico. This is good, simple is good.</p>
+
+<img width="1034" height="415" alt="MochaboardSCH" src="https://github.com/user-attachments/assets/3eec7966-b8c5-45ff-9bd2-694c673a4770" />
+<br><br>
+
+<h2>PCB!</h2><br><br>
+<p>The PCB is also simple with a very basic layout and a small silk-screen coffee cup. Sometimes you just have to purely focus on one feature (typing) and ignore or entirely leave out any bells and whistles. </p>
+
+<img width="906" height="410" alt="MochaboardPCBFINAL" src="https://github.com/user-attachments/assets/816ca8e1-8e7c-459b-88f2-3753c1105fc2" />
+<br><br>
+
+<h2>Case!</h2><br><br>
+<p>The case is simple. It is set up for sandwich mounting because of the simplicity of sandwich mounting. It has holes for all the keys, one for the Pico and and last one to show off the silkscreen.</p>
+
+<img width="1071" height="459" alt="MochaboardCaseLonely" src="https://github.com/user-attachments/assets/aec742af-494d-46d0-b42f-2086e599254d" />
+<br><br>
 
 <h2>BOM</h2>
 
